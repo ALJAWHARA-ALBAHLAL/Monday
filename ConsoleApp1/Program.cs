@@ -34,7 +34,7 @@ namespace Monday
         }
         public static T Generic<T> (T t) {
             return t;
-        }
+        }//
     }
 
     public class Customer
