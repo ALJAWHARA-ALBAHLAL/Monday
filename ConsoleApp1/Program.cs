@@ -10,7 +10,7 @@ namespace Monday
     internal class Program 
     {
         static void Main(string[] args)
-        {
+        {//whhhyyyyy
             Console.WriteLine(Generic<int>(10));
             Console.WriteLine(Generic<string>("s"));
             Console.WriteLine(Generic<double>(10.8));
